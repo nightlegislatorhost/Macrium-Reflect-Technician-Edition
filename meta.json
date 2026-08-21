@@ -1,0 +1,29 @@
+{
+  "repo": "macrium-reflect-technician-edition",
+  "product": "Macrium Reflect Technician Edition",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://macrium-reflect.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "macrium-reflect",
+    "disk-cloning",
+    "bare-metal-restore",
+    "system-imaging",
+    "differential-backup",
+    "technician-backup",
+    "recovery-tools",
+    "drive-imaging",
+    "macrium-setup-failed-fix",
+    "how-to-install-macrium-reflect",
+    "macrium-windows",
+    "backup-tools",
+    "windows-tools",
+    "system-utility"
+  ],
+  "stars_cache": 16,
+  "nexpath_slug": "macrium-reflect",
+  "nexpath_app_name": "Macrium Reflect"
+}
